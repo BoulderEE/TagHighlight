@@ -1,0 +1,9 @@
+FriendlyName:typescript
+CTagsName:typescript
+PythonExtensionMatcher:ts
+VimExtensionMatcher:ts
+Suffix:ts
+VimSyntaxes:typescript
+VimFileTypes:typescript
+
+# vim: ff=unix:noet

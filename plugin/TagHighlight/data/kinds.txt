@@ -249,3 +249,14 @@ vim:
 yacc:
 	l:CTagsLabel
 # vim: ff=unix:noet
+typescript:
+	c:CTagsClass
+	a:CTagsClass
+	n:CTagsModule
+	t:CTagsType
+	f:CTagsFunction
+	v:CTagsVariable
+	l:CTagsGlobalVariable
+	m:CTagsMember
+	i:CTagsInterface
+	e:CTagsEnumeration
